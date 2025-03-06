@@ -37,10 +37,8 @@ The dependencies are listed in the `requirements.txt` file. Key packages include
 
 Install all dependencies with:
 
-```bash
+```bash 
 pip install -r requirements.txt
-
-```running the application
 streamlit run financial_agent.py
 
 
