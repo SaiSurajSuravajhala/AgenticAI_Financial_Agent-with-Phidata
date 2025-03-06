@@ -40,5 +40,6 @@ Install all dependencies with:
 ```bash 
 pip install -r requirements.txt
 streamlit run financial_agent.py
+![image](https://github.com/user-attachments/assets/f11123a5-90cf-4640-b81f-621b204d01e3)
 
 
