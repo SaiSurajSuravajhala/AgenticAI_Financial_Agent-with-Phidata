@@ -8,11 +8,11 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-# Convert local image to base64
+
 with open("photos/photo3.jpg", "rb") as img_file:
     encoded_image = base64.b64encode(img_file.read()).decode()
 
-# Inject CSS with the base64 image as a background
+
 st.markdown(
     f"""
     <style>
