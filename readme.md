@@ -1,6 +1,6 @@
 # Agentic AI Search Interface
 
-This project is a multi-agent system built using the **phi.agent** framework. It integrates with **OpenAIChat**, **YFinanceTools**, and **DuckDuckGo** to provide real-time financial insights and web search results. The application is delivered through a Streamlit UI that displays formatted output
+This project is a multi-agent system built using the **phidata** framework. It integrates with **OpenAIChat**, **YFinanceTools**, and **DuckDuckGo** to provide real-time financial insights and web search results. The application is delivered through a Streamlit UI that displays formatted output
 
 ## Project Overview
 
